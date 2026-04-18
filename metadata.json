@@ -1,0 +1,6 @@
+{
+  "name": "Poker Rogue",
+  "description": "A card-based Roguelike where you form patterns (Single, Pair, Triple, Straight, Bomb) to defeat enemies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
